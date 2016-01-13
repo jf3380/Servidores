@@ -1,0 +1,87 @@
+#::::::::::::::: Informatica ::::::::::::::::::::
+
+00:13:72:AC:7C:84         # ORTEX 01            # 172.16.23.32
+00:1E:37:2F:F4:88         # ORTEX 03            # 172.16.23.55
+00:0D:60:B2:15:07         # LAPTOD LOYO         # 172.16.23.140
+
+#::::::::::::::: Recursos Humanos :::::::::::::::
+
+00:11:5B:74:18:41         # Argenis Figuera         # 172.16.23.195
+00:11:85:B2:C3:F6         # Fanny Romero            # 172.16.23.209
+00:0F:B0:D4:8A:4B         # Laptop de Eliana        # 172.16.23.126
+00:11:25:67:56:FD         # Dulce Franco            # 172.16.23.116
+
+#:::::::::::::::: Coordinacion :::::::::::::::::::::::::
+
+00:11:25:67:3a:14         # Alicia Zambrano        # 172.16.23.186
+00:13:72:AC:78:17         # Coordinador            # 172.16.23.65
+
+#:::::::::::::::: Area Legal :::::::::::::::::::::::::::
+
+00:1A:6B:48:D8:60       #       Jefa del Area       # 172.16.23.208
+00:1E:37:2F:EF:7E	#	Nayibe Pinto	    # 172.16.23.73
+#00:09:6B:C3:06:43	#	Dolymar Perez	    # 172.16.23.222
+#00:10:B5:9F:3E:16	#	Erika Rangel	    # 172.16.23.151
+#00:1A:6B:48:D8:77	#	Yinger Alvarado	    # 172.16.23.102
+#00:01:6C:B3:7A:C5      #       Sor Bravo           # 172.16.23.223
+00:11:85:82:6A:CA       #       Rafael Martinez     # 172.16.23.117
+
+#:::::::::::::::: Area Tecnica :::::::::::::::::::::::::
+
+00:1E:37:2F:EE:CE       #       Jefe del Area       # 172.16.23.60
+#00:07:E9:E3:FF:CE	#	Yomar Perez	    # 172.16.23.224
+00:05:5D:26:BE:EF       #	Petra Flores	    # 172.16.23.221
+#00:11:85:B1:0F:AF	#	Reinaldo Fernandez  # 172.16.23.204
+#00:11:5B:66:F2:6D	#	Adelia Birmar	    # 172.16.23.219
+#00:1E:37:2F:F4:FE	#	Hanibal Perozo	    # 172.16.23.62
+#00:1A:6B:48:BA:B2	#	Jeninka Gonzalez    # 172.16.23.192
+#00:11:25:67:40:FC	#	Osmari Cedeño	    # 172.16.23.120
+#00:11:25:67:35:81	#	Juan Tovar	    # 172.16.23.58
+#00:0B:6A:C9:15:4D	#	Ivania Quintero	    # 172.16.23.119
+#00:01:6c:4b:68:22       #       Giovana Miranda     # 172.16.23.182
+#00:11:25:67:3a:45       #       Maryori Sanchez     # 172.16.23.43
+
+#:::::::::::::::: Area Registro ::::::::::::::::::::::::
+
+00:11:85:17:87:AD       #       Jefe de Area           # 172.16.23.64
+00:11:5B:72:2D:37       #       Adriana Chavez         # 172.16.23.181
+00:1E:37:2F:EF:A8       #       Nesler Rosales         # 172.16.23.112
+00:1A:6B:48:D5:72       #       Carla Robles           # 172.16.23.177
+#00:11:85:18:75:D5      #       Oneiris Mendoza        # 172.16.23.184
+#00:1A:6B:48:C7:6E      #       Heidy Sucre            # 172.16.23.33
+00:21:5A:5F:BC:BF      #       Marco Quijada          # 172.16.23.252
+#00:26:22:9a:54:1e
+
+#:::::::::::::::: Area Recursos Naturales :::::::::::::::::::::::::
+
+00:11:25:67:3F:B5       # Roque Fernandez              # 172.16.23.215
+00:b0:d0:27:93:ea       # Jefe del Area(Normedy)       # 172.16.23.91
+#00:11:85:B4:BB:60       # Maria Vielma
+#00:01:6C:B3:7A:C5       # Maribel gomez	
+#00:11:85:B4:BB:5C       # Noemi Gamboa	
+#00:11:25:67:33:BE       # Maria Hurtado
+
+#:::::::::::::::: Area de Archivo ::::::::::::::::::::::
+
+00:11:25:67:3B:FC       # Fanny Lu                     # 172.16.23.46
+00:11:85:B4:BB:45       # Yosmarlen Contreras          # 172.16.23.41
+00:1F:29:B7:40:96       # Laptod Carolina Fiaschi      # 172.16.23.166
+
+#:::::::::::::::: Area de Soberano ::::::::::::::::::::::
+
+#00:11:5B:6A:47:46       #       Todos                  # 172.16.23.46
+#00:1E:37:2F:F4:8C	#	Thays Cely	       # 172.16.23.70
+00:1E:37:2F:EC:2C	#	Yoeli Araujo	       # 172.16.23.37
+#00:1E:37:2F:F9:B6	#	Carmen Rodriguez       # 172:16:23:220
+#00:1E:37:2F:F5:BE       #       Liuth Freites          # 172.16.23.61
+#00:11:85:16:20:40       #       Wilmer Perez           # 172.16.23.156
+#00:1E:37:2F:F4:EA       #       Karen Manjarrez        # 172.16.23.63
+
+#::::::::::::::: Formacion :::::::::::::::::::::::::::::
+
+00:14:C2:56:C3:A4       #       Educacion
+00:1F:29:B7:A0:E9       #       LAPTOD           # 172.16.23.173
+
+#::::::::::::::: Fundos Zamoranos :::::::::::::::::::::::
+
+00:c0:4f:5b:3d:17

@@ -1,0 +1,425 @@
+1246534657.130  07:07:37 02/07/2009  318 10.11.6.67 TCP_MISS/204 298 GET http://www.google.com/setgmail? vivasquez DIRECT/74.125.19.147 text/html
+1246534750.184    246 10.11.6.67 TCP_MISS/204 298 GET http://www.google.com/setgmail? vivasquez DIRECT/74.125.19.147 text/html
+1246535016.627    171 10.11.1.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? acabrera DIRECT/74.125.19.147 text/html
+1246535220.678     10 10.7.5.85 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246535222.388      0 10.7.5.85 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ argarcia NONE/- text/html
+1246535305.281    178 10.11.1.103 TCP_MISS/204 455 GET http://www.google.com/setgmail? josrodriguez DIRECT/74.125.19.147 text/html
+1246535507.593    181 10.9.0.86 TCP_MISS/204 455 GET http://www.google.com/setgmail? jcastillo DIRECT/74.125.19.147 text/html
+1246536464.990    764 10.11.8.55 TCP_DENIED/407 1800 GET http://gmail.com/ - NONE/- text/html
+1246536477.270    415 10.11.8.55 TCP_MISS/301 660 GET http://gmail.com/ mguibert DIRECT/74.125.79.83 text/html
+1246536503.116    260 10.11.8.55 TCP_MISS/204 298 GET http://www.google.com/setgmail? mguibert DIRECT/74.125.19.147 text/html
+1246536678.848      0 10.18.3.61 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ mlovera NONE/- text/html
+1246536759.354    166 10.18.3.61 TCP_MISS/204 298 GET http://www.google.com/setgmail? mlovera DIRECT/74.125.19.147 text/html
+1246537000.452     44 10.4.0.127 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ anysulbaran NONE/- text/html
+1246537040.027    474 10.4.0.127 TCP_MISS/204 298 GET http://www.google.com/setgmail? anysulbaran DIRECT/64.233.161.104 text/html
+1246537108.487   1284 10.5.0.96 TCP_MISS/200 2489 GET http://es.geocities.com/electra_014/electra0553gmail.png diegodiaz DIRECT/98.137.46.72 image/png
+1246537440.840      1 10.7.2.92 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ djimenez NONE/- text/html
+1246537563.368   1957 10.7.2.92 TCP_MISS/200 8624 GET http://mail.google.com/mail/images/2/5/graffiti/gmail_solid_white_beta.png djimenez DIRECT/209.85.227.19 image/png
+1246537618.746  07:56:58 02/07/2009  0 10.11.2.57 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+
+
+
+
+
+
+
+
+
+
+
+
+
+1246537804.069  08:00:04 02/07/2009 1098 10.11.3.63 TCP_MISS/204 455 GET http://www.google.com/setgmail? maygarcia DIRECT/74.125.153.147 text/html
+
+1246538095.692  08:04:55 02/07/2009  315 10.6.0.67 TCP_MISS/204 298 GET http://www.google.com/setgmail? frangarcia DIRECT/74.125.153.103 text/html
+1246538547.784      0 10.14.0.59 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246538741.272      8 10.14.0.59 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ yulgarcia NONE/- text/html
+1246538778.565   1309 10.14.0.59 TCP_MISS/204 298 GET http://www.google.com/setgmail? yulgarcia DIRECT/74.125.19.104 text/html
+1246538801.505   1035 10.14.0.94 TCP_MISS/204 298 GET http://www.google.com/setgmail? micastro DIRECT/74.125.19.104 text/html
+1246538832.547      8 10.11.2.57 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ shernandez NONE/- text/html
+1246538838.818   1292 10.11.2.57 TCP_MISS/204 298 GET http://www.google.com/setgmail? shernandez DIRECT/74.125.153.103 text/html
+1246538857.319   1282 10.8.0.52 TCP_MISS/204 298 GET http://www.google.com/setgmail? gatorres DIRECT/74.125.153.103 text/html
+1246538889.162   1047 10.22.0.54 TCP_MISS/204 298 GET http://www.google.com/setgmail? yagutierrez DIRECT/74.125.19.104 text/html
+1246538901.182    984 10.9.0.147 TCP_MISS/204 455 GET http://www.google.com/setgmail? adrodriguez DIRECT/74.125.19.104 text/html
+1246538929.071    700 10.11.2.57 TCP_MISS/204 298 GET http://www.google.com/setgmail? shernandez DIRECT/74.125.19.104 text/html
+
+1246538997.882  08:19:57 02/07/2009   895 10.8.0.52 TCP_MISS/302 801 GET http://mail.google.com/mail/photos/gabiticatorres%40gmail.com? gatorres DIRECT/74.125.19.17 text/html
+1246538998.786   1756 10.8.0.52 TCP_MISS/302 801 GET http://mail.google.com/mail/photos/gabiticatorres%40gmail.com? gatorres DIRECT/74.125.19.17 text/html
+1246539000.369    961 10.8.0.52 TCP_MISS/302 801 GET http://mail.google.com/mail/photos/gabiticatorres%40gmail.com? gatorres DIRECT/74.125.19.18 text/html
+1246539081.067   3919 10.12.0.60 TCP_MISS/200 8624 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png mcorona DIRECT/74.125.153.83 image/png
+1246539081.671  08:21:21 02/07/2009  TCP_MISS/204 455 GET http://www.google.com/setgmail? mcorona DIRECT/74.125.19.104 text/html
+
+
+de 8:00 a 8:20
+frangarcia  yulgarcia micastro  shernandez gatorres yagutierrez adrodriguez mcorona
+
+
+
+1246539169.022   08:22:49 02/07/2009  1264 10.7.4.115 TCP_MISS/204 298 GET http://www.google.com/setgmail? jbarboza DIRECT/74.125.19.104 text/html
+1246539187.945   1057 10.12.0.60 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/juanmolinajmv%40gmail.com? mcorona DIRECT/74.125.19.83 text/html
+1246539188.416   1498 10.12.0.60 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/juanmolinajmv%40gmail.com? mcorona DIRECT/74.125.19.18 text/html
+1246539289.834      0 10.8.0.58 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246539299.655      8 10.8.0.58 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ xcanizales NONE/- text/html
+1246539313.013      0 10.8.0.58 TCP_HIT/200 8632 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png xcanizales NONE/- image/png
+1246539314.766   1114 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/209.85.227.104 text/html
+1246539341.164      0 10.7.2.58 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ marsanchez NONE/- text/html
+1246539375.328   1243 10.7.2.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? marsanchez DIRECT/209.85.227.103 text/html
+1246539474.887   1110 10.11.1.87 TCP_MISS/204 455 GET http://www.google.com/setgmail? avalecillos DIRECT/209.85.227.103 text/html
+1246539476.380   3191 10.11.1.87 TCP_MISS/200 8624 GET http://mail.google.com/mail/images/2/5/ocean/base/gmail_solid_white_beta.png avalecillos DIRECT/74.125.113.18 image/png
+1246539581.065      3 10.11.1.87 TCP_HIT/200 8632 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png avalecillos NONE/- image/png
+1246539582.579    960 10.11.1.87 TCP_MISS/204 298 GET http://www.google.com/setgmail? avalecillos DIRECT/209.85.227.103 text/html
+1246539647.324    849 10.11.1.87 TCP_MISS/204 298 GET http://www.google.com/setgmail? avalecillos DIRECT/209.85.227.103 text/html
+1246539658.154   1090 10.7.2.93 TCP_MISS/204 298 GET http://www.google.com/setgmail? ggil DIRECT/209.85.227.103 text/html
+1246539709.922    980 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/209.85.227.103 text/html
+1246539857.103   1138 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/209.85.227.103 text/html
+1246539860.115      5 10.8.2.102 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ kperry NONE/- text/html
+1246539886.818      0 10.4.0.164 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ maridiaz NONE/- text/html
+1246539894.893    696 10.8.2.102 TCP_MISS/204 298 GET http://www.google.com/setgmail? kperry DIRECT/209.85.227.103 text/html
+1246539909.186    941 10.11.4.90 TCP_MISS/204 298 GET http://www.google.com/setgmail? lgutierrez DIRECT/209.85.227.103 text/html
+1246539923.653    879 10.4.0.164 TCP_MISS/204 298 GET http://www.google.com/setgmail? maridiaz DIRECT/209.85.227.103 text/html
+1246539989.680      0 10.7.2.92 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ djimenez NONE/- text/html
+1246539996.732   1027 10.7.2.92 TCP_MISS/204 298 GET http://www.google.com/setgmail? djimenez DIRECT/209.85.227.103 text/html
+1246540019.697      0 10.4.0.163 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246540025.013      9 10.4.0.163 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ scoello NONE/- text/html
+1246540064.667    782 10.4.0.163 TCP_MISS/204 298 GET http://www.google.com/setgmail? scoello DIRECT/74.125.19.103 text/html
+1246540270.072   1680 10.15.0.55 TCP_MISS/200 1765 GET http://www.google.com/talk/images/icons/gmail_icon.gif sagarcia DIRECT/209.85.227.99 image/gif
+1246540298.871    670 10.14.0.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? aafonso DIRECT/209.85.227.99 text/html
+1246540309.869    752 10.15.0.55 TCP_MISS/204 455 GET http://www.google.com/setgmail? sagarcia DIRECT/209.85.227.99 text/html
+
+jbarboza xcanizales marsanchez avalecillos ggil kperry maridiaz lgutierrez djimenez scoello sagarcia aafonso harrieche kgonzalez yrodriguez maygonzalez msuarez jdeascencao mibordones evarela mguibert mfreitas maygarcia frangarcia yulgarcia micastro shernandez gatorres yagutierrez adrodriguez mcorona
+
+
+1246540402.059 08:43:22 02/07/2009   546 10.6.1.154 TCP_MISS/204 298 GET http://www.google.com/setgmail? harrieche DIRECT/209.85.227.99 text/html
+1246540439.147   2990 10.8.0.55 TCP_MISS/200 8624 GET http://mail.google.com/mail/images/2/5/pebbles/gmail_solid_white_beta.png kgonzalez DIRECT/74.125.19.18 image/png
+1246540439.445    690 10.8.0.55 TCP_MISS/204 298 GET http://www.google.com/setgmail? kgonzalez DIRECT/209.85.227.99 text/html
+1246540471.520      0 10.4.0.164 TCP_MEM_HIT/301 661 GET http://www.gmail.com/ maridiaz NONE/- text/html
+1246540479.096    991 10.4.0.164 TCP_MISS/204 298 GET http://www.google.com/setgmail? maridiaz DIRECT/209.85.227.99 text/html
+1246540640.022     18 10.24.0.46 TCP_HIT/301 661 GET http://www.gmail.com/ yrodriguez NONE/- text/html
+1246540650.099   1575 10.11.1.85 TCP_DENIED/407 1800 GET http://gmail.com/ - NONE/- text/html
+1246540660.485      8 10.11.1.85 TCP_HIT/301 661 GET http://gmail.com/ maygonzalez NONE/- text/html
+1246540666.120   1114 10.24.0.46 TCP_MISS/204 298 GET http://www.google.com/setgmail? yrodriguez DIRECT/74.125.19.147 text/html
+1246540703.948    749 10.11.1.85 TCP_MISS/204 455 GET http://www.google.com/setgmail? maygonzalez DIRECT/74.125.19.147 text/html
+1246540783.041      0 10.19.0.85 TCP_HIT/200 1763 GET http://www.google.com/talk/images/icons/gmail_icon.gif msuarez NONE/- image/gif
+
+1246540840.490  08:50:40 02/07/2009  1393 10.7.2.93 TCP_MISS/200 1764 GET http://whos.amung.us/cwidget/baxmc75yai8i/2e31928cc63f/Tienes%20una%20foto%3F%20nos%20la%20puedes%20enviar%20a%20la%20siguiente%20direccion%20soloenvenezuela%40gmail.com%20%7C%20Solo%20En%20Venezuela ggil DIRECT/67.202.94.94 image/png
+1246540889.891   1074 10.7.2.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? jdeascencao DIRECT/64.233.161.147 text/html
+1246540965.252    375 10.6.1.62 TCP_MISS/204 298 GET http://www.google.com/setgmail? mibordones DIRECT/64.233.161.104 text/html
+1246540992.013    271 10.7.4.115 TCP_MISS/204 298 GET http://www.google.com/setgmail? jbarboza DIRECT/64.233.161.104 text/html
+
+1246541024.490  08:53:44 02/07/2009  724 10.7.2.93 TCP_MISS/204 298 GET http://www.google.com/setgmail? ggil DIRECT/74.125.19.99 text/html
+1246541136.702   1030 10.12.0.60 TCP_MISS/204 298 GET http://www.google.com/setgmail? mcorona DIRECT/64.233.161.147 text/html
+1246541207.831    906 10.17.0.55 TCP_MISS/204 298 GET http://www.google.com/setgmail? evarela DIRECT/64.233.161.147 text/html
+1246541305.725   2078 10.11.8.55 TCP_HIT/301 661 GET http://gmail.com/ mguibert NONE/- text/html
+1246541361.553      0 10.14.0.119 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246541365.767    510 10.11.8.55 TCP_MISS/204 298 GET http://www.google.com/setgmail? mguibert DIRECT/64.233.161.147 text/html
+1246541368.144      7 10.14.0.119 TCP_HIT/301 661 GET http://www.gmail.com/ mfreitas NONE/- text/html
+1246541390.712    679 10.14.0.119 TCP_MISS/204 298 GET http://www.google.com/setgmail? mfreitas DIRECT/64.233.161.147 text/html
+1246541935.502  09:08:55 02/07/2009  403 10.14.0.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? aafonso DIRECT/74.125.19.147 text/html
+
+
+
+
+
+
+
+
+
+
+
+
+1246541951.703    851 10.14.0.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? aafonso DIRECT/74.125.19.147 text/html
+1246541976.150   1300 10.14.0.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? aafonso DIRECT/74.125.19.147 text/html
+1246542123.161      0 10.6.1.62 TCP_HIT/200 1763 GET http://www.google.com/talk/images/icons/gmail_icon.gif mibordones NONE/- image/gif
+1246542140.130   1211 10.6.1.62 TCP_MISS/204 298 GET http://www.google.com/setgmail? mibordones DIRECT/209.85.227.99 text/html
+1246542147.914    852 10.6.1.62 TCP_MISS/302 802 GET http://mail.google.com/mail/photos/jgmanfer%40gmail.com? mibordones DIRECT/74.125.91.17 text/html
+1246542147.914    851 10.6.1.62 TCP_MISS/302 802 GET http://mail.google.com/mail/photos/jgmanfer%40gmail.com? mibordones DIRECT/74.125.91.18 text/html
+1246542407.828   1460 10.11.6.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? econtreras DIRECT/209.85.227.103 text/html
+1246542861.263   1125 10.8.0.70 TCP_MISS/204 298 GET http://www.google.com/setgmail? juflores DIRECT/74.125.153.99 text/html
+1246542926.521   1310 10.9.0.147 TCP_MISS/204 298 GET http://www.google.com/setgmail? adrodriguez DIRECT/74.125.153.99 text/html
+1246543044.098   2988 10.9.0.59 TCP_MISS/204 298 GET http://www.google.com/setgmail? jalviarez DIRECT/74.125.153.99 text/html
+1246543155.052    930 10.6.0.67 TCP_MISS/204 298 GET http://www.google.com/setgmail? frangarcia DIRECT/74.125.153.103 text/html
+1246543200.534   1046 10.7.2.93 TCP_MISS/204 298 GET http://www.google.com/setgmail? ggil DIRECT/74.125.153.99 text/html
+1246543217.410   1028 10.14.0.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? aafonso DIRECT/74.125.153.99 text/html
+1246543353.005     16 10.15.0.55 TCP_HIT/200 8633 GET http://mail.google.com/mail/images/2/5/graffiti/gmail_solid_white_beta.png sagarcia NONE/- image/png
+1246543359.474      0 10.14.0.59 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246543369.277      0 10.14.0.59 TCP_HIT/301 662 GET http://www.gmail.com/ yulgarcia NONE/- text/html
+1246543395.267   1009 10.11.4.90 TCP_MISS/204 298 GET http://www.google.com/setgmail? lgutierrez DIRECT/74.125.153.99 text/html
+1246543617.339      0 10.11.1.91 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246543619.437      0 10.11.1.91 TCP_HIT/301 662 GET http://www.gmail.com/ acabrera NONE/- text/html
+1246543647.372   1588 10.11.1.91 TCP_MISS/204 455 GET http://www.google.com/setgmail? acabrera DIRECT/74.125.19.104 text/html
+1246543667.083    948 10.14.0.59 TCP_MISS/204 298 GET http://www.google.com/setgmail? yulgarcia DIRECT/74.125.19.104 text/html
+1246543912.191    788 10.7.2.55 TCP_MISS/302 805 GET http://mail.google.com/mail/photos/itza837%40gmail.com? itovar DIRECT/74.125.19.83 text/html
+1246543912.196    794 10.7.2.55 TCP_MISS/302 805 GET http://mail.google.com/mail/photos/itza837%40gmail.com? itovar DIRECT/74.125.19.83 text/html
+1246543984.628    174 10.14.0.92 TCP_MISS/204 298 GET http://www.google.com/setgmail? sbohorquez DIRECT/74.125.19.103 text/html
+1246544397.940    255 10.14.0.92 TCP_MISS/204 298 GET http://www.google.com/setgmail? sbohorquez DIRECT/74.125.19.104 text/html
+1246544418.898    522 10.9.0.148 TCP_MISS/204 455 GET http://www.google.com/setgmail? rgonzalez DIRECT/74.125.19.104 text/html
+1246544563.306      0 10.13.1.74 TCP_HIT/301 662 GET http://www.gmail.com/ acubilla NONE/- text/html
+1246544728.956   1976 10.9.0.59 TCP_MISS/302 809 GET http://mail.google.com/mail/photos/lenis02%40gmail.com? jalviarez DIRECT/74.125.19.83 text/html
+1246545000.962     18 10.12.0.60 TCP_HIT/200 8633 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png mcorona NONE/- image/png
+1246545003.902   2223 10.12.0.60 TCP_MISS/204 455 GET http://www.google.com/setgmail? mcorona DIRECT/209.85.227.104 text/html
+1246545297.180    527 10.9.0.86 TCP_MISS/204 455 GET http://www.google.com/setgmail? jcastillo DIRECT/209.85.227.103 text/html
+1246545409.836     19 10.4.0.170 TCP_HIT/301 662 GET http://www.gmail.com/ sgarcia NONE/- text/html
+1246545441.642   2509 10.4.0.170 TCP_MISS/204 455 GET http://www.google.com/setgmail? sgarcia DIRECT/209.85.227.103 text/html
+1246545596.723    540 10.4.0.164 TCP_MISS/204 298 GET http://www.google.com/setgmail? maridiaz DIRECT/209.85.227.99 text/html
+1246545635.463    613 10.4.0.164 TCP_MISS/204 298 GET http://www.google.com/setgmail? maridiaz DIRECT/209.85.227.99 text/html
+1246545635.831   2503 10.4.0.164 TCP_MISS/200 12926 GET http://mail.google.com/mail/images/2/5/gizmos/gmail_logo_beta.png maridiaz DIRECT/74.125.153.83 image/png
+1246545902.670    647 10.11.4.90 TCP_MISS/204 298 GET http://www.google.com/setgmail? lgutierrez DIRECT/209.85.227.147 text/html
+1246546037.073    484 10.6.1.53 TCP_MISS/204 455 GET http://www.google.com/setgmail? jmarin DIRECT/209.85.227.147 text/html
+1246546171.411    549 10.9.0.59 TCP_MISS/302 809 GET http://mail.google.com/mail/photos/lenis02%40gmail.com? jalviarez DIRECT/74.125.19.17 text/html
+1246546368.904      0 10.11.7.105 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246546377.227      9 10.11.7.105 TCP_HIT/301 662 GET http://www.gmail.com/ jpinto NONE/- text/html
+1246546401.424    365 10.5.3.52 TCP_MISS/204 298 GET http://www.google.com/setgmail? jcesin DIRECT/209.85.227.147 text/html
+1246546420.843    216 10.11.7.105 TCP_MISS/204 298 GET http://www.google.com/setgmail? jpinto DIRECT/209.85.227.147 text/html
+1246546521.255      0 10.4.0.150 TCP_MISS/000 0 GET http://www.google.com/setgmail? limartinez DIRECT/64.233.169.104 -
+1246546658.020   1925 10.6.0.68 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246546688.751      9 10.6.0.68 TCP_HIT/301 662 GET http://www.gmail.com/ ylisboa NONE/- text/html
+1246546700.901    285 10.6.0.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? ylisboa DIRECT/64.233.169.103 text/html
+1246546843.662    767 10.24.0.85 TCP_MISS/204 298 GET http://www.google.com/setgmail? ancontreras DIRECT/64.233.169.103 text/html
+1246546886.587    108 10.6.0.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? ylisboa DIRECT/64.233.169.103 text/html
+1246546983.777      2 10.11.1.88 TCP_HIT/301 662 GET http://www.gmail.com/ pluigi NONE/- text/html
+1246547012.863    403 10.11.1.88 TCP_MISS/204 455 GET http://www.google.com/setgmail? pluigi DIRECT/64.233.169.103 text/html
+1246547301.823     83 10.24.0.46 TCP_DENIED/407 1800 GET http://gmail.com/ - NONE/- text/html
+1246547312.247      1 10.24.0.46 TCP_DENIED/407 1800 GET http://gmail.com/ yrodriguez NONE/- text/html
+1246547324.036      1 10.24.0.46 TCP_DENIED/407 1800 GET http://gmail.com/ yrodriguez NONE/- text/html
+1246547331.901      0 10.24.0.46 TCP_DENIED/407 1833 GET http://gmail.com/favicon.ico - NONE/- text/html
+1246547334.902      0 10.24.0.46 TCP_DENIED/407 1833 GET http://gmail.com/favicon.ico - NONE/- text/html
+1246547369.767      1 10.24.0.46 TCP_HIT/301 662 GET http://www.gmail.com/ yrodriguez NONE/- text/html
+1246547382.660    125 10.24.0.46 TCP_MISS/204 298 GET http://www.google.com/setgmail? yrodriguez DIRECT/64.233.169.103 text/html
+1246547809.999    269 10.11.7.105 TCP_MISS/204 298 GET http://www.google.com/setgmail? jpinto DIRECT/74.125.19.104 text/html
+1246548324.268    851 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/74.125.19.99 text/html
+1246548360.459      0 10.4.0.150 TCP_MISS/000 0 GET http://www.google.com/setgmail? limartinez DIRECT/www.google.com -
+1246548386.512    241 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/74.125.19.103 text/html
+1246548546.883     28 10.11.1.79 TCP_HIT/200 12935 GET http://mail.google.com/mail/images/2/5/gizmos/gmail_logo_beta.png joliveros NONE/- image/png
+1246548547.957    577 10.11.1.79 TCP_MISS/204 455 GET http://www.google.com/setgmail? joliveros DIRECT/74.125.19.103 text/html
+1246548664.217   1110 10.14.0.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? tperaza DIRECT/74.125.19.103 text/html
+1246548928.381    432 10.11.5.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? ecaraballo DIRECT/209.85.227.99 text/html
+1246548940.055      0 10.22.0.52 TCP_HIT/200 1763 GET http://www.google.com/talk/images/icons/gmail_icon.gif jegarcia NONE/- image/gif
+1246548972.022    323 10.5.0.78 TCP_MISS/204 298 GET http://www.google.com/setgmail? wchirinos DIRECT/209.85.227.104 text/html
+1246549033.492      6 10.8.0.58 TCP_HIT/200 8633 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png xcanizales NONE/- image/png
+1246549034.679    616 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/209.85.227.147 text/html
+1246549069.048   1010 10.7.2.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? jdeascencao DIRECT/209.85.227.147 text/html
+1246549354.631  11589 10.8.0.58 TCP_MISS/200 13416 GET http://www.inia.gov.ve/images/enlaces_importantes/logmail.jpg xcanizales DIRECT/200.44.56.50 image/jpeg
+1246549393.675    668 10.6.0.67 TCP_MISS/204 298 GET http://www.google.com/setgmail? frangarcia DIRECT/209.85.227.99 text/html
+1246549524.846    780 10.5.0.78 TCP_MISS/204 298 GET http://www.google.com/setgmail? wchirinos DIRECT/209.85.227.104 text/html
+1246549788.204      1 10.15.0.72 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246549791.137      0 10.15.0.72 TCP_DENIED/407 1845 GET http://www.gmail.com/favicon.ico - NONE/- text/html
+1246549791.255      0 10.16.0.70 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246549794.392      0 10.15.0.72 TCP_DENIED/407 1845 GET http://www.gmail.com/favicon.ico - NONE/- text/html
+1246549797.864      8 10.16.0.70 TCP_HIT/301 662 GET http://www.gmail.com/ pasierra NONE/- text/html
+1246549826.227   1106 10.16.0.70 TCP_MISS/204 298 GET http://www.google.com/setgmail? pasierra DIRECT/209.85.227.104 text/html
+1246549904.314    843 10.18.0.86 TCP_MISS/204 298 GET http://www.google.com/setgmail? zdominguez DIRECT/209.85.227.104 text/html
+1246549935.841   1077 10.9.0.88 TCP_MISS/204 298 GET http://www.google.com/setgmail? rsalas DIRECT/209.85.227.104 text/html
+1246550046.544    682 10.7.2.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? jdeascencao DIRECT/209.85.227.147 text/html
+1246550051.058    850 10.11.3.63 TCP_MISS/204 455 GET http://www.google.com/setgmail? maygarcia DIRECT/209.85.227.147 text/html
+1246550245.650   1042 10.24.0.105 TCP_MISS/204 298 GET http://www.google.com/setgmail? tromero DIRECT/209.85.227.104 text/html
+1246550273.939   1263 10.24.0.105 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/situacionalmppat%40gmail.com? tromero DIRECT/74.125.91.18 text/html
+1246550273.941   1254 10.24.0.105 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/situacionalmppat%40gmail.com? tromero DIRECT/74.125.91.83 text/html
+1246550328.256    859 10.24.0.105 TCP_MISS/204 298 GET http://www.google.com/setgmail? tromero DIRECT/209.85.227.104 text/html
+1246550338.052      8 10.4.0.164 TCP_HIT/200 1763 GET http://www.google.com/talk/images/icons/gmail_icon.gif maridiaz NONE/- image/gif
+1246550386.928    659 10.6.0.67 TCP_MISS/204 298 GET http://www.google.com/setgmail? frangarcia DIRECT/64.233.169.99 text/html
+1246550470.426   1083 10.14.0.116 TCP_MISS/204 298 GET http://www.google.com/setgmail? arhernandez DIRECT/64.233.169.99 text/html
+1246550471.749   3453 10.14.0.116 TCP_MISS/200 8624 GET http://mail.google.com/mail/images/2/5/planets/base/gmail_solid_white_beta.png arhernandez DIRECT/74.125.19.83 image/png
+1246550481.207   1204 10.9.0.88 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/ricardosalas55%40gmail.com? rsalas DIRECT/74.125.19.83 text/html
+1246550481.335   1229 10.9.0.88 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/ricardosalas55%40gmail.com? rsalas DIRECT/74.125.19.17 text/html
+1246550630.069   1289 10.11.1.103 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/lucio2hendry%40gmail.com? josrodriguez DIRECT/74.125.19.18 text/html
+1246550630.386   1494 10.11.1.103 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/lucio2hendry%40gmail.com? josrodriguez DIRECT/74.125.19.19 text/html
+1246550811.441   2082 10.15.0.72 TCP_MISS/204 298 GET http://www.google.com/setgmail? mgraterol DIRECT/74.125.153.99 text/html
+1246551022.763    862 10.7.4.59 TCP_MISS/200 8064 GET http://www.atravesdevenezuela.com/imagen/atvgmail.png jcasales DIRECT/189.1.169.164 image/png
+1246551336.294     41 10.8.2.103 TCP_HIT/301 662 GET http://gmail.com/ psanchez NONE/- text/html
+1246551364.650   1146 10.8.2.103 TCP_MISS/204 298 GET http://www.google.com/setgmail? psanchez DIRECT/74.125.19.104 text/html
+1246551365.125   3435 10.8.2.103 TCP_MISS/200 8624 GET http://mail.google.com/mail/images/2/5/newblue/gmail_solid_white_beta.png psanchez DIRECT/209.85.227.83 image/png
+1246551511.296    178 10.14.0.116 TCP_MISS/204 298 GET http://www.google.com/setgmail? arhernandez DIRECT/74.125.19.99 text/html
+1246551560.815    241 10.18.0.86 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/juanmafeliu%40gmail.com? zdominguez DIRECT/74.125.19.19 text/html
+1246551560.815    240 10.18.0.86 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/juanmafeliu%40gmail.com? zdominguez DIRECT/74.125.19.19 text/html
+1246551905.795    204 10.14.0.116 TCP_MISS/204 298 GET http://www.google.com/setgmail? arhernandez DIRECT/74.125.19.103 text/html
+1246552273.344      1 10.4.0.165 TCP_HIT/301 662 GET http://www.gmail.com/ rorozco NONE/- text/html
+1246552276.654    203 10.8.1.52 TCP_MISS/204 298 GET http://www.google.com/setgmail? saponte DIRECT/74.125.19.99 text/html
+1246552289.859    271 10.4.0.165 TCP_MISS/204 298 GET http://www.google.com/setgmail? rorozco DIRECT/74.125.19.99 text/html
+1246552304.428      5 10.8.1.52 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png saponte NONE/- image/png
+1246552304.835    172 10.8.1.52 TCP_MISS/204 298 GET http://www.google.com/setgmail? saponte DIRECT/74.125.19.99 text/html
+1246552426.786    307 10.7.4.115 TCP_MISS/204 298 GET http://www.google.com/setgmail? jbarboza DIRECT/74.125.19.147 text/html
+1246552478.140    625 10.24.0.93 TCP_MISS/204 298 GET http://www.google.com/setgmail? jherrera DIRECT/74.125.19.99 text/html
+1246552679.610     87 10.7.5.86 TCP_HIT/301 662 GET http://www.gmail.com/ ebarreto NONE/- text/html
+1246552702.151    416 10.7.5.86 TCP_MISS/204 298 GET http://www.google.com/setgmail? ebarreto DIRECT/64.233.169.104 text/html
+1246552839.060      0 10.24.0.102 TCP_HIT/301 662 GET http://www.gmail.com/ peandrade NONE/- text/html
+1246552852.586    135 10.24.0.102 TCP_MISS/204 298 GET http://www.google.com/setgmail? peandrade DIRECT/66.102.1.99 text/html
+1246553272.994      0 10.15.0.55 TCP_HIT/200 1763 GET http://www.google.com/talk/images/icons/gmail_icon.gif sagarcia NONE/- image/gif
+1246553295.128      3 10.15.0.55 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/graffiti/gmail_solid_white_beta.png sagarcia NONE/- image/png
+1246553295.837    143 10.15.0.55 TCP_MISS/204 455 GET http://www.google.com/setgmail? sagarcia DIRECT/66.102.1.147 text/html
+1246553607.882    113 10.4.0.127 TCP_MISS/204 298 GET http://www.google.com/setgmail? anysulbaran DIRECT/66.102.1.147 text/html
+1246553644.531    286 10.11.7.105 TCP_MISS/204 298 GET http://www.google.com/setgmail? jpinto DIRECT/66.102.1.147 text/html
+1246553762.407    159 10.14.0.116 TCP_MISS/204 298 GET http://www.google.com/setgmail? arhernandez DIRECT/66.102.1.147 text/html
+1246553776.870    108 10.7.0.59 TCP_MISS/204 455 GET http://www.google.com/setgmail? czapata DIRECT/66.102.1.147 text/html
+1246554274.577      0 10.11.1.91 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246554276.686      8 10.11.1.91 TCP_HIT/301 662 GET http://www.gmail.com/ acabrera NONE/- text/html
+1246554290.953    233 10.11.1.91 TCP_MISS/204 455 GET http://www.google.com/setgmail? acabrera DIRECT/74.125.19.103 text/html
+1246554435.443    169 10.8.0.70 TCP_MISS/204 298 GET http://www.google.com/setgmail? juflores DIRECT/74.125.19.103 text/html
+1246554441.149      6 10.11.1.87 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/ocean/base/gmail_solid_white_beta.png avalecillos NONE/- image/png
+1246554441.849    187 10.11.1.87 TCP_MISS/204 455 GET http://www.google.com/setgmail? avalecillos DIRECT/74.125.19.103 text/html
+1246554465.064     13 10.11.1.87 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png avalecillos NONE/- image/png
+1246554465.765    189 10.11.1.87 TCP_MISS/204 298 GET http://www.google.com/setgmail? avalecillos DIRECT/74.125.19.103 text/html
+1246554796.465    636 10.24.0.85 TCP_MISS/204 298 GET http://www.google.com/setgmail? ancontreras DIRECT/74.125.19.147 text/html
+1246555093.712      6 10.16.1.57 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246555104.550     23 10.16.1.57 TCP_HIT/301 662 GET http://www.gmail.com/ destrada NONE/- text/html
+1246555139.117    593 10.16.1.57 TCP_MISS/204 298 GET http://www.google.com/setgmail? destrada DIRECT/74.125.19.99 text/html
+1246556241.883      0 10.8.0.58 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png xcanizales NONE/- image/png
+1246556242.870    203 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/74.125.19.99 text/html
+1246556428.142    451 10.16.1.57 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/jcloyo%40gmail.com? destrada DIRECT/74.125.19.17 text/html
+1246556428.549    853 10.16.1.57 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/jcloyo%40gmail.com? destrada DIRECT/74.125.19.18 text/html
+1246556463.067     12 10.24.0.102 TCP_HIT/301 662 GET http://www.gmail.com/ peandrade NONE/- text/html
+1246556476.308   1039 10.24.0.102 TCP_MISS/204 298 GET http://www.google.com/setgmail? peandrade DIRECT/74.125.19.104 text/html
+1246556525.777    666 10.24.0.102 TCP_MISS/200 430 GET http://pixel.quantserve.com/pixel;r=1629954873;fpan=0;fpa=4a131467-89755-2737d-83036;fpbn=1;fpb=1596813719;ns=0;url=http%3A%2F%2Ffr.skoost.com%2Ffun%2F%3Fssinticentral%2540gmail%252Ecom%2F21044852%2F7;ref=;ce=1;je=0;sr=1440x900x32;dc=4a131467-89755-2737d-83036;dg=P4386-W-FF-3;dst=0;et=1246556228440;tzo=240;a=p-edVwvio2hZ_B- peandrade DIRECT/64.94.107.17 image/gif
+1246556909.836    199 10.7.2.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? jdeascencao DIRECT/74.125.19.104 text/html
+1246556938.709    193 10.9.0.88 TCP_MISS/204 298 GET http://www.google.com/setgmail? rsalas DIRECT/74.125.19.104 text/html
+1246557049.634     11 10.7.2.56 TCP_HIT/301 662 GET http://www.gmail.com/ jdeascencao NONE/- text/html
+1246557064.036    467 10.7.2.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? jdeascencao DIRECT/209.85.227.104 text/html
+1246557160.188   1087 10.4.0.123 TCP_MISS/204 298 GET http://www.google.com/setgmail? kgarcia DIRECT/74.125.19.104 text/html
+1246557173.575    852 10.4.0.123 TCP_MISS/302 802 GET http://mail.google.com/mail/photos/asistenciaprofesionalintegral%40gmail.com? kgarcia DIRECT/209.85.227.83 text/html
+1246557173.578    863 10.4.0.123 TCP_MISS/302 802 GET http://mail.google.com/mail/photos/asistenciaprofesionalintegral%40gmail.com? kgarcia DIRECT/209.85.227.17 text/html
+1246557234.316    484 10.4.0.172 TCP_MISS/204 298 GET http://www.google.com/setgmail? lreques DIRECT/64.233.161.104 text/html
+1246557292.414   1452 10.16.1.57 TCP_MISS/302 802 GET http://mail.google.com/mail/photos/manuelffm%40gmail.com? destrada DIRECT/74.125.153.19 text/html
+1246557292.661   1709 10.16.1.57 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/manuelffm%40gmail.com? destrada DIRECT/74.125.153.18 text/html
+1246557326.381   1238 10.24.0.64 TCP_MISS/204 298 GET http://www.google.com/setgmail? lcarico DIRECT/64.233.161.104 text/html
+1246557427.295      0 10.11.8.56 TCP_HIT/301 662 GET http://www.gmail.com/ amrodriguez NONE/- text/html
+1246557434.286    436 10.11.8.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? amrodriguez DIRECT/74.125.19.103 text/html
+1246557589.989   1068 10.9.0.96 TCP_MISS/204 298 GET http://www.google.com/setgmail? jgarcia DIRECT/74.125.19.103 text/html
+1246557724.497    323 10.11.1.85 TCP_HIT/301 662 GET http://gmail.com/ maygonzalez NONE/- text/html
+1246557731.958    731 10.11.1.85 TCP_MISS/204 298 GET http://www.google.com/setgmail? maygonzalez DIRECT/74.125.19.99 text/html
+1246557868.502    229 10.9.0.96 TCP_MISS/204 298 GET http://www.google.com/setgmail? jgarcia DIRECT/74.125.19.103 text/html
+1246558046.831      1 10.11.8.56 TCP_HIT/301 662 GET http://www.gmail.com/ amrodriguez NONE/- text/html
+1246558069.481    856 10.11.8.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? amrodriguez DIRECT/74.125.19.103 text/html
+1246558162.040    849 10.9.0.59 TCP_MISS/204 298 GET http://www.google.com/setgmail? jalviarez DIRECT/74.125.19.103 text/html
+1246558286.180   1002 10.8.2.103 TCP_MISS/204 298 GET http://www.google.com/setgmail? psanchez DIRECT/74.125.19.103 text/html
+1246558345.991      0 10.8.0.89 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246558347.437      0 10.8.0.89 TCP_DENIED/407 1845 GET http://www.gmail.com/favicon.ico - NONE/- text/html
+1246558364.860   2497 10.8.0.89 TCP_MISS/301 661 GET http://www.gmail.com/favicon.ico kperry DIRECT/209.85.227.83 text/html
+1246558364.863      0 10.8.0.89 TCP_MEM_HIT/301 659 GET http://www.gmail.com/favicon.ico kperry NONE/- text/html
+1246558380.972   1301 10.11.5.76 TCP_MISS/204 298 GET http://www.google.com/setgmail? jbriceno DIRECT/64.233.161.104 text/html
+1246558394.670   1013 10.12.0.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? jrosario DIRECT/64.233.161.104 text/html
+1246558397.659    738 10.24.0.85 TCP_MISS/204 298 GET http://www.google.com/setgmail? ancontreras DIRECT/64.233.161.147 text/html
+1246558403.164      3 10.14.0.59 TCP_HIT/301 662 GET http://www.gmail.com/ yulgarcia NONE/- text/html
+1246558404.163      0 10.8.0.89 TCP_HIT/301 662 GET http://www.gmail.com/ kperry NONE/- text/html
+1246558406.303    821 10.14.0.59 TCP_MISS/204 298 GET http://www.google.com/setgmail? yulgarcia DIRECT/64.233.161.147 text/html
+1246558474.598   1831 10.12.0.56 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/afrancisco22%40gmail.com? jrosario DIRECT/74.125.153.19 text/html
+1246558474.600   1824 10.12.0.56 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/afrancisco22%40gmail.com? jrosario DIRECT/74.125.153.18 text/html
+1246558485.092   1847 10.12.0.56 TCP_MISS/302 803 GET http://mail.google.com/mail/photos/fernwilliam%40gmail.com? jrosario DIRECT/74.125.153.83 text/html
+1246558486.529   3278 10.12.0.56 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/fernwilliam%40gmail.com? jrosario DIRECT/74.125.153.83 text/html
+1246558491.377   1497 10.12.0.56 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/afrancisco22%40gmail.com? jrosario DIRECT/74.125.153.19 text/html
+1246558525.185   1199 10.9.0.148 TCP_MISS/204 298 GET http://www.google.com/setgmail? rgonzalez DIRECT/64.233.161.147 text/html
+1246558645.255   1057 10.24.0.46 TCP_MISS/204 298 GET http://www.google.com/setgmail? yrodriguez DIRECT/209.85.227.99 text/html
+1246558659.296      0 10.11.8.56 TCP_HIT/301 662 GET http://www.gmail.com/ amrodriguez NONE/- text/html
+1246558706.120      0 10.8.0.89 TCP_HIT/301 662 GET http://www.gmail.com/ kperry NONE/- text/html
+1246558725.682      0 10.14.0.222 TCP_HIT/301 662 GET http://www.gmail.com/ caguillon NONE/- text/html
+1246558737.265   1268 10.8.0.89 TCP_MISS/204 298 GET http://www.google.com/setgmail? kperry DIRECT/209.85.227.99 text/html
+1246558776.906   1130 10.14.0.222 TCP_MISS/204 455 GET http://www.google.com/setgmail? caguillon DIRECT/209.85.227.99 text/html
+1246559020.736    905 10.18.0.105 TCP_MISS/000 0 GET http://mail.google.com/mail/photos/scarlet.leoncedis28%40gmail.com? lcarrero DIRECT/mail.google.com -
+1246559104.401   1067 10.4.0.196 TCP_MISS/204 450 GET http://www.google.com/setgmail? algonzalez DIRECT/74.125.19.99 text/html
+1246559137.634   1091 10.5.3.52 TCP_MISS/204 298 GET http://www.google.com/setgmail? jcesin DIRECT/64.233.161.147 text/html
+1246559141.799   1148 10.5.3.52 TCP_MISS/302 803 GET http://mail.google.com/mail/photos/giovis1303%40gmail.com? jcesin DIRECT/74.125.19.83 text/html
+1246559142.770   2111 10.5.3.52 TCP_MISS/302 803 GET http://mail.google.com/mail/photos/giovis1303%40gmail.com? jcesin DIRECT/209.85.227.19 text/html
+1246559176.279   1275 10.14.0.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? tperaza DIRECT/64.233.161.147 text/html
+1246559214.029   1071 10.16.0.70 TCP_MISS/204 298 GET http://www.google.com/setgmail? pasierra DIRECT/64.233.161.104 text/html
+1246559228.415      1 10.12.0.60 TCP_HIT/301 662 GET http://www.gmail.com/ mcorona NONE/- text/html
+1246559269.527      3 10.12.0.60 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png mcorona NONE/- image/png
+1246559271.637   1193 10.12.0.60 TCP_MISS/204 455 GET http://www.google.com/setgmail? mcorona DIRECT/74.125.153.99 text/html
+1246559353.894      0 10.11.1.91 TCP_HIT/301 662 GET http://www.gmail.com/ acabrera NONE/- text/html
+1246559358.111    155 10.11.1.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? acabrera DIRECT/64.233.161.104 text/html
+1246559512.917      0 10.11.8.56 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246559524.891      8 10.11.8.56 TCP_HIT/301 662 GET http://www.gmail.com/ amrodriguez NONE/- text/html
+1246559780.334    143 10.16.0.70 TCP_MISS/204 298 GET http://www.google.com/setgmail? pasierra DIRECT/64.233.161.104 text/html
+1246559853.662     18 10.9.0.84 TCP_HIT/301 662 GET http://www.gmail.com/ fajimenez NONE/- text/html
+1246559872.626    550 10.9.0.84 TCP_MISS/204 455 GET http://www.google.com/setgmail? fajimenez DIRECT/64.233.161.104 text/html
+1246559894.270    116 10.7.2.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? marsanchez DIRECT/64.233.161.104 text/html
+1246559896.728    136 10.9.0.84 TCP_MISS/204 298 GET http://www.google.com/setgmail? fajimenez DIRECT/64.233.161.104 text/html
+1246560002.765    233 10.4.0.107 TCP_MISS/200 1972 GET http://4.bp.blogspot.com/_9s4rslQ_4eQ/SXpSbPCvk9I/AAAAAAAAAJU/w4CnOMp9AzU/S45/hokane%2540gmail.com_20080531_81db181c.jpg hsuarez DIRECT/74.125.19.103 image/jpeg
+1246560005.456      0 10.16.1.57 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246560013.096    288 10.4.0.164 TCP_MISS/204 298 GET http://www.google.com/setgmail? maridiaz DIRECT/74.125.19.99 text/html
+1246560014.703      7 10.16.1.57 TCP_HIT/301 662 GET http://www.gmail.com/ destrada NONE/- text/html
+1246560020.594    236 10.16.1.57 TCP_MISS/204 298 GET http://www.google.com/setgmail? destrada DIRECT/74.125.19.99 text/html
+1246560109.160     21 10.4.0.150 TCP_MISS/000 0 GET http://www.google.com/setgmail? limartinez DIRECT/74.125.19.147 -
+1246560128.830    198 10.8.0.89 TCP_MISS/204 298 GET http://www.google.com/setgmail? kperry DIRECT/74.125.19.103 text/html
+1246560251.472    174 10.4.0.164 TCP_MISS/204 298 GET http://www.google.com/setgmail? maridiaz DIRECT/74.125.19.103 text/html
+1246560325.182    195 10.8.0.89 TCP_MISS/204 298 GET http://www.google.com/setgmail? kperry DIRECT/74.125.19.103 text/html
+1246560441.956    371 10.11.2.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? ksalazar DIRECT/74.125.19.103 text/html
+1246560459.640    246 10.4.0.178 TCP_MISS/204 474 GET http://www.google.com/setgmail? josrojas DIRECT/74.125.19.103 text/html
+1246560580.624      1 10.12.0.60 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png mcorona NONE/- image/png
+1246560581.622    565 10.12.0.60 TCP_MISS/204 455 GET http://www.google.com/setgmail? mcorona DIRECT/209.85.227.99 text/html
+1246560787.972    531 10.11.1.85 TCP_DENIED/407 1800 GET http://gmail.com/ - NONE/- text/html
+1246560798.015     19 10.11.1.85 TCP_HIT/301 662 GET http://gmail.com/ maygonzalez NONE/- text/html
+1246560838.315    156 10.11.8.56 TCP_HIT/301 662 GET http://www.gmail.com/ amrodriguez NONE/- text/html
+1246560847.753    420 10.11.6.68 TCP_MISS/204 298 GET http://www.google.com/setgmail? econtreras DIRECT/209.85.227.99 text/html
+1246560913.511    993 10.11.8.56 TCP_MISS/204 298 GET http://www.google.com/setgmail? amrodriguez DIRECT/209.85.227.99 text/html
+1246560949.118    681 10.8.0.89 TCP_MISS/204 298 GET http://www.google.com/setgmail? kperry DIRECT/209.85.227.99 text/html
+1246560950.163    595 10.11.1.85 TCP_MISS/204 455 GET http://www.google.com/setgmail? maygonzalez DIRECT/209.85.227.99 text/html
+1246561051.777      2 10.5.0.51 TCP_HIT/301 662 GET http://www.gmail.com/ arlopez NONE/- text/html
+1246561077.073      0 10.5.0.51 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246561083.726     10 10.5.0.51 TCP_HIT/301 662 GET http://www.gmail.com/ arlopez NONE/- text/html
+1246561197.385    144 10.11.1.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? acabrera DIRECT/64.233.169.104 text/html
+1246561247.133      1 10.11.1.79 TCP_HIT/200 12936 GET http://mail.google.com/mail/images/2/5/gizmos/gmail_logo_beta.png joliveros NONE/- image/png
+1246561248.188    518 10.11.1.79 TCP_MISS/204 455 GET http://www.google.com/setgmail? joliveros DIRECT/64.233.169.99 text/html
+1246561302.254    957 10.11.2.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? ksalazar DIRECT/64.233.169.99 text/html
+1246561304.040    929 10.11.1.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? acabrera DIRECT/64.233.169.99 text/html
+1246561346.225    819 10.4.0.164 TCP_MISS/204 298 GET http://www.google.com/setgmail? maridiaz DIRECT/64.233.169.99 text/html
+1246561479.960    712 10.24.0.46 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/heczam33%40gmail.com? yrodriguez DIRECT/74.125.19.83 text/html
+1246561480.501   1244 10.24.0.46 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/heczam33%40gmail.com? yrodriguez DIRECT/74.125.19.19 text/html
+1246561933.305   1540 10.11.4.93 TCP_HIT/301 662 GET http://gmail.com/ dvasquez NONE/- text/html
+1246561938.605    262 10.18.0.105 TCP_MISS/000 0 GET http://mail.google.com/mail/photos/liscar23%40gmail.com? lcarrero DIRECT/209.85.227.83 -
+1246562039.167    407 10.13.1.70 TCP_MISS/204 298 GET http://www.google.com/setgmail? jcubillas DIRECT/74.125.19.103 text/html
+1246562051.253    491 10.11.4.93 TCP_MISS/204 298 GET http://www.google.com/setgmail? dvasquez DIRECT/74.125.19.147 text/html
+1246562182.556    205 10.11.2.91 TCP_MISS/204 298 GET http://www.google.com/setgmail? ksalazar DIRECT/74.125.19.147 text/html
+1246562220.058      8 10.24.0.102 TCP_HIT/301 662 GET http://www.gmail.com/ peandrade NONE/- text/html
+1246562222.136    485 10.24.0.102 TCP_MISS/204 298 GET http://www.google.com/setgmail? peandrade DIRECT/74.125.19.147 text/html
+1246562392.975    759 10.11.1.79 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/jaof09%40gmail.com? joliveros DIRECT/74.125.19.19 text/html
+1246562392.999    778 10.11.1.79 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/jaof09%40gmail.com? joliveros DIRECT/74.125.19.83 text/html
+1246562404.966      2 10.24.0.102 TCP_HIT/301 662 GET http://www.gmail.com/ peandrade NONE/- text/html
+1246562408.726    584 10.24.0.102 TCP_MISS/204 298 GET http://www.google.com/setgmail? peandrade DIRECT/74.125.19.147 text/html
+1246562415.858    507 10.8.0.75 TCP_MISS/204 298 GET http://www.google.com/setgmail? crequena DIRECT/74.125.19.147 text/html
+1246562465.580    202 10.4.0.196 TCP_MISS/204 298 GET http://www.google.com/setgmail? algonzalez DIRECT/74.125.19.147 text/html
+1246562490.277    192 10.4.0.196 TCP_MISS/204 298 GET http://www.google.com/setgmail? algonzalez DIRECT/74.125.19.147 text/html
+1246562660.982    220 10.4.0.196 TCP_MISS/204 298 GET http://www.google.com/setgmail? algonzalez DIRECT/74.125.19.147 text/html
+1246562662.903      2 10.14.0.58 TCP_HIT/301 662 GET http://www.gmail.com/ aquijano NONE/- text/html
+1246562684.953      0 10.8.0.58 TCP_DENIED/407 1812 GET http://www.gmail.com/ - NONE/- text/html
+1246562703.048      8 10.8.0.58 TCP_HIT/301 662 GET http://www.gmail.com/ xcanizales NONE/- text/html
+1246562724.424      3 10.8.0.58 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/mountains/base/gmail_solid_white_beta.png xcanizales NONE/- image/png
+1246562725.575    555 10.8.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? xcanizales DIRECT/74.125.19.147 text/html
+1246562767.894    718 10.14.0.58 TCP_MISS/204 455 GET http://www.google.com/setgmail? aquijano DIRECT/74.125.19.147 text/html
+1246562785.064      0 10.11.2.125 TCP_DENIED/403 1376 GET http://www.gmail.com/ cechenique NONE/- text/html
+1246562785.149      0 10.11.2.125 TCP_DENIED/403 1398 GET http://www.gmail.com/favicon.ico cechenique NONE/- text/html
+1246562788.143      0 10.11.2.125 TCP_DENIED/403 1398 GET http://www.gmail.com/favicon.ico cechenique NONE/- text/html
+1246562803.414   1089 10.24.0.46 TCP_MISS/204 298 GET http://www.google.com/setgmail? yrodriguez DIRECT/209.85.227.104 text/html
+1246562865.520      0 10.11.2.125 TCP_DENIED/403 1376 GET http://www.gmail.com/ cechenique NONE/- text/html
+1246562868.570      0 10.11.2.125 TCP_DENIED/403 1398 GET http://www.gmail.com/favicon.ico cechenique NONE/- text/html
+1246562900.104    190 10.5.3.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? suruiz DIRECT/209.85.227.104 text/html
+1246562967.168    196 10.24.0.46 TCP_MISS/204 298 GET http://www.google.com/setgmail? yrodriguez DIRECT/209.85.227.104 text/html
+1246562990.757    324 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/carolinafiaschi%40gmail.com? aquijano DIRECT/74.125.19.17 text/html
+1246562991.005    572 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/carolinafiaschi%40gmail.com? aquijano DIRECT/74.125.19.83 text/html
+1246563110.176    504 10.24.0.46 TCP_MISS/302 800 GET http://mail.google.com/mail/photos/carolinacabriles%40gmail.com? yrodriguez DIRECT/74.125.19.17 text/html
+1246563110.297    625 10.24.0.46 TCP_MISS/302 801 GET http://mail.google.com/mail/photos/carolinacabriles%40gmail.com? yrodriguez DIRECT/74.125.19.18 text/html
+1246563348.811    660 10.11.4.90 TCP_MISS/204 298 GET http://www.google.com/setgmail? lgutierrez DIRECT/64.233.169.103 text/html
+1246563510.768    941 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/mteresafreitas%40gmail.com? aquijano DIRECT/74.125.19.83 text/html
+1246563511.220   1384 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/mteresafreitas%40gmail.com? aquijano DIRECT/74.125.19.18 text/html
+1246563651.777    246 10.11.6.77 TCP_MISS/204 298 GET http://www.google.com/setgmail? jiguaros DIRECT/209.85.227.147 text/html
+1246563930.063    707 10.11.2.125 TCP_MISS/204 298 GET http://www.google.com/setgmail? cechenique DIRECT/74.125.19.147 text/html
+1246563960.684      0 10.14.0.58 TCP_HIT/301 662 GET http://www.gmail.com/ aquijano NONE/- text/html
+1246563965.334    585 10.14.0.58 TCP_MISS/204 298 GET http://www.google.com/setgmail? aquijano DIRECT/74.125.19.147 text/html
+1246564016.481    930 10.11.2.125 TCP_MISS/302 803 GET http://mail.google.com/mail/photos/ibecast%40gmail.com? cechenique DIRECT/209.85.227.18 text/html
+1246564016.559   1006 10.11.2.125 TCP_MISS/302 803 GET http://mail.google.com/mail/photos/ibecast%40gmail.com? cechenique DIRECT/209.85.227.19 text/html
+1246564018.981    889 10.11.6.67 TCP_MISS/204 298 GET http://www.google.com/setgmail? vivasquez DIRECT/74.125.19.147 text/html
+1246564137.085     11 10.11.1.87 TCP_HIT/200 8634 GET http://mail.google.com/mail/images/2/5/ocean/base/gmail_solid_white_beta.png jmalvarado NONE/- image/png
+1246564138.044    366 10.11.1.87 TCP_MISS/204 455 GET http://www.google.com/setgmail? jmalvarado DIRECT/74.125.19.103 text/html
+1246564480.898    811 10.11.1.85 TCP_HIT/301 662 GET http://gmail.com/ maygonzalez NONE/- text/html
+1246564485.295    576 10.11.1.85 TCP_MISS/204 298 GET http://www.google.com/setgmail? maygonzalez DIRECT/74.125.19.99 text/html
+1246564485.845      4 10.8.0.53 TCP_HIT/301 662 GET http://www.gmail.com/ lorecastillo NONE/- text/html
+1246564495.077    555 10.8.0.53 TCP_MISS/204 298 GET http://www.google.com/setgmail? lorecastillo DIRECT/74.125.19.99 text/html
+1246564812.923   1482 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/formacioninti%40gmail.com? aquijano DIRECT/209.85.227.17 text/html
+1246564813.075   1599 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/formacioninti%40gmail.com? aquijano DIRECT/209.85.227.18 text/html
+1246564816.571   1054 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/formacioninti%40gmail.com? aquijano DIRECT/209.85.227.83 text/html
+1246564839.504   1988 10.9.0.59 TCP_MISS/204 293 GET http://www.google.com/setgmail? jalviarez DIRECT/74.125.153.99 text/html
+1246564889.414   1170 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/marite79%40gmail.com? aquijano DIRECT/209.85.227.18 text/html
+1246564889.647   1404 10.14.0.58 TCP_MISS/404 587 GET http://mail.google.com/mail/photos/marite79%40gmail.com? aquijano DIRECT/209.85.227.17 text/html
+1246564893.796   2091 10.8.0.89 TCP_MISS/204 293 GET http://www.google.com/setgmail? kperry DIRECT/74.125.153.104 text/html
+1246564923.920    708 10.18.0.105 TCP_MISS/302 821 GET http://mail.google.com/mail/photos/liscar23%40gmail.com? lcarrero DIRECT/209.85.227.18 text/html
+1246565077.068    854 10.14.0.118 TCP_MISS/204 293 GET http://www.google.com/setgmail? parias DIRECT/74.125.19.147 text/html
+1246565197.596   1058 10.9.0.59 TCP_MISS/404 580 GET http://mail.google.com/mail/photos/ildemaro.trias%40gmail.com? jalviarez DIRECT/209.85.227.18 text/html
+1246565206.677    373 10.8.2.103 TCP_DENIED/407 1800 GET http://gmail.com/ - NONE/- text/html
+1246565216.011      0 10.8.2.103 TCP_HIT/301 662 GET http://gmail.com/ psanchez NONE/- text/html
